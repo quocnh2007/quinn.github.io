@@ -1,0 +1,11 @@
+#EXTM3U abcxyz404
+#EXTINF:-1,Kênh 1 (Tiengruoi.link)
+http://127.0.0.1:6878/ace/getstream?id=4875a901a224a950421c9cb2d60456bd820d6199
+#EXTINF:-1,Kênh 2 (Tiengruoi.link)
+http://127.0.0.1:6878/ace/getstream?id=4bc1bfdcc400164b7c8afd2644108dd3311e85eb
+#EXTINF:-1,Kênh 3 (Tiengruoi.link)
+http://127.0.0.1:6878/ace/getstream?id=e9ed9d82db929115c74f295e6c9503f47987635a
+#EXTINF:-1,Kênh 4 (Tiengruoi.link)
+http://127.0.0.1:6878/ace/getstream?id=9d9e6ed068f0a5058b9e803a78fa765d8a8c3ffa
+#EXTINF:-1,Kênh 5 (Tiengruoi.link)
+http://127.0.0.1:6878/ace/getstream?id=fbda842baf2646ce181a6560cfa3fe453c11991f
